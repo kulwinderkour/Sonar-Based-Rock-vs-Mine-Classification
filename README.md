@@ -1,4 +1,4 @@
-#Sonar-Based Rock vs Mine Classification
+Sonar-Based Rock vs Mine Classification
 Project Overview
 
 This project uses sonar signal data to classify underwater objects as rocks or mines. Sonar (Sound Navigation and Ranging) works by emitting sound waves and analyzing their echoes to detect and locate objects. Using Logistic Regression, the model predicts object types accurately, aiding safe underwater navigation and mine detection.
